@@ -1,0 +1,84 @@
+# Inside a Computer System
+
+**Date: 11/09/2026**
+
+* Before we talk about security, we first need to know what we are securing.
+* After completing this section, we will have a general idea of how computer components interact with each other.
+
+## Key Points
+
+### Motherboard
+
+The motherboard is the main circuit board of a computer. It connects and allows communication between different components.
+
+### CPU
+
+CPU stands for **Central Processing Unit**. It processes instructions and performs calculations.
+
+For example, if you tell a computer to add two numbers, the CPU processes that instruction.
+
+### RAM
+
+RAM stands for **Random Access Memory**. It temporarily stores data and instructions that the computer is currently using while the system is running.
+
+When the power is turned off, the data stored in RAM is lost.
+
+### Storage
+
+**HDD (Hard Disk Drive)** and **SSD (Solid-State Drive)** are storage devices.
+
+They are used to store data for long-term use, even when the computer is turned off.
+
+### PSU
+
+PSU stands for **Power Supply Unit**. It supplies electrical power to the computer's components.
+
+### Network Adapter
+
+A network adapter allows a computer to communicate with other devices over a network.
+
+For example, it can help a computer connect to the internet through Wi-Fi or Ethernet.
+
+### Graphics Card
+
+A graphics card, also called a **GPU (Graphics Processing Unit)**, processes graphical information and sends it to the display.
+
+Some computers have a dedicated graphics card, while others use integrated graphics built into the CPU.
+
+### Input/Output Devices
+
+**Input devices** allow us to send information to the computer.
+
+For example:
+
+* Keyboard
+* Mouse
+* Microphone
+
+**Output devices** allow the computer to present information to us.
+
+For example:
+
+* Monitor
+* Speakers
+* Printer
+
+## What Happens When We Press the Power Button?
+
+This is one of the challenging topics for me to understand, but I will try to learn it step by step.
+
+A simplified version of the process is:
+
+1. **Press the power button**
+2. **Power is supplied to the components**
+3. **Firmware starts**
+4. **Power-On Self-Test (POST) runs**
+5. **The system identifies a boot device**
+6. **The bootloader starts**
+7. **The operating system begins loading**
+
+These steps are still a little difficult for me to understand, but I will learn them step by step.
+
+## What Did This Cover?
+
+This section covers the **core components of a computer system** and gives a basic introduction to **what happens when a computer boots after pressing the power button**.
