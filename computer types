@@ -1,0 +1,101 @@
+# Computer Types
+
+**Date: 13/09/2026**
+
+## Introduction
+
+In this section, we covered **eight types of computers** and their basic purposes.
+
+## Key Points
+
+### 1. Laptop
+
+Laptops are portable computers that are easy to carry and use in different places.
+
+They contain components such as a battery, cooling fans, and heat pipes. Laptops are commonly used for tasks such as browsing the internet, writing documents, programming, watching videos, and sending emails.
+
+### 2. Desktop
+
+Desktop computers are designed to stay in a fixed location.
+
+Compared with laptops, desktops can provide better performance and cooling because they have more space for larger components and cooling systems. They are commonly used for gaming, programming, office work, and other demanding tasks.
+
+### 3. Workstation
+
+A workstation is a high-performance computer designed for professional and demanding workloads.
+
+Workstations can be used for tasks such as:
+
+* 3D rendering
+* Engineering and CAD
+* Scientific computing
+* Video editing
+* Data analysis
+
+They are generally more powerful than typical desktop computers.
+
+### 4. Server
+
+A server is a computer or system that provides services, resources, or data to other computers and users over a network.
+
+For example, a server can provide websites, files, applications, databases, or other services.
+
+### 5. Smartphone
+
+A smartphone is a portable computer designed mainly for personal and mobile use.
+
+Modern smartphones can perform many tasks, including browsing the internet, taking photos, running applications, playing games, and communicating with other people.
+
+### 6. Tablet
+
+A tablet is a portable touchscreen computer.
+
+Tablets are useful for tasks such as browsing the internet, watching videos, reading, drawing, taking notes, and using applications.
+
+### 7. IoT (Internet of Things) Devices
+
+IoT devices are physical devices that can connect to a network and exchange data.
+
+Examples include:
+
+* Smart refrigerators
+* Smart ovens
+* Smart doorbells
+* Smart cameras
+* Smart thermostats
+
+IoT devices are often designed for specific purposes, but some can perform multiple functions.
+
+### 8. Embedded Devices
+
+An embedded system is a computer system built into a larger device or machine to perform a specific function.
+
+Examples include embedded systems in:
+
+* Washing machines
+* Cars
+* Microwave ovens
+* Elevators
+* Medical equipment
+
+An embedded system does not necessarily need to be connected to a network.
+
+## IoT vs Embedded Systems
+
+This was one of the more difficult topics for me to understand.
+
+A simple way to remember the difference is:
+
+**Embedded system:** A computer built into a larger device to perform a specific function.
+
+**IoT device:** A device that can connect to a network and communicate or exchange data.
+
+They can also overlap.
+
+For example, a **smart thermostat** can contain an embedded system that controls the thermostat while also being an IoT device because it connects to Wi-Fi and communicates with an app or cloud service.
+
+I found this topic difficult at first, but after reviewing it two or three times, I started to understand it better.
+
+## What Did This Cover?
+
+This section covered **eight types of computers** and their basic purposes. It also introduced the difference between **IoT devices and embedded systems**.
